@@ -1,6 +1,6 @@
-@tailwind base;
-@tailwind components;
-@tailwind utilities;
+@import "tailwindcss";
 
-/* Add any global styles below */
-body { @apply antialiased; }
+/* الـ Global Styles المتوافقة مع الإصدار الجديد */
+body {
+  @apply antialiased;
+}
